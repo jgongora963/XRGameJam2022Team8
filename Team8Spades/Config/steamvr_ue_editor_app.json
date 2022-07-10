@@ -1,0 +1,18 @@
+{
+	"source": "UE",
+	"applications": [
+		{
+			"app_key": "application.generated.ue.team8spades-20280985.unrealeditor.exe",
+			"launch_type": "url",
+			"url": "steam://launch/",
+			"action_manifest_path": "C:/Users/ALIENWARE EDU/Documents/XRGameJamTeam8/XRGameJam2022Team8/Team8Spades/Config/SteamVRBindings/steamvr_manifest.json",
+			"strings":
+			{
+				"en_us":
+				{
+					"name": "Team8Spades-20280985 [UE Editor]"
+				}
+			}
+		}
+	]
+}
